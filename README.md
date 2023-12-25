@@ -8,6 +8,7 @@ https://sdk.vercel.ai/docs/api-reference/openai-stream
 https://vercel.com/blog/an-introduction-to-streaming-on-the-web
 https://platform.openai.com/docs/api-reference/streaming
 https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes
+https://sdk.vercel.ai/docs/guides/providers/openai
 
 
 ## Deploy
