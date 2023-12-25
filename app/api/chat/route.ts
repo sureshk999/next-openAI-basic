@@ -1,10 +1,7 @@
 import OpenAI from 'openai';
 import { OpenAIStream, StreamingTextResponse } from 'ai';
 // IMPORTANT! Set the runtime to edge
-// export const runtime = 'edge';
-export const config = {
-  runtime: 'experimental-edge',
-}
+export const runtime = 'edge';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY, //Add in to .env

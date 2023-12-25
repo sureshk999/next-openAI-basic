@@ -5,8 +5,10 @@ This is a basic app for streaming open AI chats that should work in NextJS and o
 https://sdk.vercel.ai/docs/api-reference/use-completion
 https://sdk.vercel.ai/docs/api-reference/use-chat
 https://sdk.vercel.ai/docs/api-reference/openai-stream
-https://vercel.com/blog/an-intro                                                                                                                   -your-application/rendering/edge-and-nodejs-runtimes
+https://vercel.com/blog/an-intro-your-application/rendering/edge-and-nodejs-runtimes
 https://sdk.vercel.ai/docs/guides/providers/openai
+
+
 
 
 ## Deploy
@@ -26,5 +28,4 @@ Pull from GitHub
 npm install
 
 ## Notes
-Deploys to Vercel without any issues
-Deploys to Netlify without problems
+Deploys to Vercel and Netlify without any problems

@@ -11,7 +11,7 @@ export default function Completion() {
     handleInputChange,
     handleSubmit,
   } = useCompletion({
-    api: './api/singleprompt',
+    api: './api/singleprompt', 
   });
  
   return (
