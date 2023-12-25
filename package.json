@@ -14,5 +14,9 @@
     "openai": "^4.24.1",
     "react": "^18",
     "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "typescript": "^5.3.3"
   }
 }
