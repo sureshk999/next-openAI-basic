@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    runtime: 'experimental-edge'
+    runtime: 'edge'
 }
 
 module.exports = nextConfig
